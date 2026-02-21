@@ -1,0 +1,5 @@
+results/
+bert-news-classifier/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

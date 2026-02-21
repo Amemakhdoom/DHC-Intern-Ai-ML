@@ -1,0 +1,8 @@
+transformers==4.40.0
+datasets==2.19.0
+torch==2.0.0
+gradio==4.31.0
+scikit-learn==1.4.2
+numpy==1.26.4
+accelerate==0.29.3
+safetensors==0.4.3
