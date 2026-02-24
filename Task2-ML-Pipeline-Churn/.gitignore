@@ -1,0 +1,5 @@
+churn_pipeline.pkl
+confusion_matrix.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
