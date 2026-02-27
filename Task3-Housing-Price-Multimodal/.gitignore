@@ -1,0 +1,6 @@
+housing_model.pth
+scaler.pkl
+training_loss.png
+predictions.png
+__pycache__/
+*.pyc
